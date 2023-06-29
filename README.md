@@ -3,7 +3,7 @@ A custom windows terminal command for Google Bard.
 ## Installation
 - Download the most recent `.zip` file from releases.
 - Press `Win + R` and type C:
-- Create a new folder named `BardCMD`
+- Create a new folder named `BardCMD`, and a new file named `key` inside (no file extension)
 - If you don't already have one, create a new folder named `PATH_Programs`
 - Place `bard.exe` into `PATH_Programs`
 - Get your api key by follwing the guide (here)[https://github.com/dsdanielpark/Bard-API#authentication]
