@@ -1,7 +1,7 @@
 # BardCMD
 A custom windows terminal command for Google Bard.
 ## Installation
-- Download the most recent `.zip` file from releases.
+- Download the most recent `.exe` file from releases.
 - Press `Win + R` and type C:
 - Create a new folder named `BardCMD`, and a new file named `key` inside (no file extension)
 - If you don't already have one, create a new folder named `PATH_Programs`
