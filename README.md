@@ -9,3 +9,7 @@ A custom windows terminal command for Google Bard.
 - Get your api key by follwing the guide (here)[https://github.com/dsdanielpark/Bard-API#authentication]
 - Set your api key by running `bard key set {your key}`
 - Enjoy!
+## Usage
+> `bard key set {your key}` - sets your key
+> `bard key get` - returns your key
+> `bard answer {prompt}` - gets an answer from Google Bard
