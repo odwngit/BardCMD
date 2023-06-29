@@ -10,6 +10,6 @@ A custom windows terminal command for Google Bard.
 - Set your api key by running `bard key set {your key}`
 - Enjoy!
 ## Usage
-> `bard key set {your key}` - sets your key
-> `bard key get` - returns your key
-> `bard answer {prompt}` - gets an answer from Google Bard
+- `bard key set {your key}` - sets your key
+- `bard key get` - returns your key
+- `bard answer {prompt}` - gets an answer from Google Bard
